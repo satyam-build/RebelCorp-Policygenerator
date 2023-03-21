@@ -173,23 +173,30 @@
         justify-content: center;
     }
     #previewbtn{
-        background-color: rgba(0, 128, 0, 0.904) ;
+        /* background-color: rgba(0, 128, 0, 0.904) ; */
+        background-color: rgb(236,22,0);
+
         transition: 0.2s ease;
         cursor: pointer;
     }
     #previewbtn:hover{
-        background-color: rgba(2, 167, 2, 0.902) ;
+        /* background-color: rgba(2, 167, 2, 0.902) ; */
+        background-color: rgba(255, 50, 27, 0.947);
+
 
     }
     #downloadbtn{
         /* display: none; */
         cursor: pointer;
-        background-color: rgba(0, 128, 0, 0.904) ;
+        /* background-color: rgba(0, 128, 0, 0.904) ; */
+        background-color: rgb(236,22,0);
+
         transition: 0.2s ease;
         
     }
     #downloadbtn:hover{
-        background-color: rgba(2, 167, 2, 0.902) ;
+        /* background-color: rgba(2, 167, 2, 0.902) ; */
+        background-color: rgba(255, 50, 27, 0.947);
 
     }
     
